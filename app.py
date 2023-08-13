@@ -1,3 +1,4 @@
+import click as click_package
 import streamlit as st
 
 def game_intro():
